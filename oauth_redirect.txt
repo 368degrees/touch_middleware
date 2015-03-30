@@ -1,0 +1,5 @@
+https://touch-demo.myshopify.com/admin/oauth/authorize?client_id=3586eaa419c077c474f37359b04b7892&scope=write_orders&redirect_uri=http://white-harrenhal-63-197069.apse2.nitrousbox.com/
+
+Parameters: {"code"=>"b9bf3c359a92baa789cce61333c67ff3", "hmac"=>"6ef21153359dbffb0b749c751037a3aa6c5119b9f56974eb11885d5c29c04e65", "shop"=>"touch-demo.myshopify.com", "signature"=>"711e88f9375a2b60ca8e4b42fae61e0b", "timestamp"=>"1427694639"}  
+
+http://white-harrenhal-63-197069.apse2.nitrousbox.com/?code=b9bf3c359a92baa789cce61333c67ff3&hmac=6ef21153359dbffb0b749c751037a3aa6c5119b9f56974eb11885d5c29c04e65&shop=touch-demo.myshopify.com&signature=711e88f9375a2b60ca8e4b42fae61e0b&timestamp=1427694639
